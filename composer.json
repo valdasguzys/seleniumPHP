@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.10",
+        "phpunit/phpunit": "^9.5"
+    }
+
+}
